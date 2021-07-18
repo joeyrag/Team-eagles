@@ -281,7 +281,7 @@ void EmployeeClass::PrintEmployee(){
 	myfile.close();
 	return;
 }
-//***************************************************************************
+//****************************************************************************
 void EmployeeClass::PrintSpecificEmployee(){
 	ifstream myfile("Employee.txt"); //Opeining the file
 	vector<EmployeeClass> staff;	//Variable setup
