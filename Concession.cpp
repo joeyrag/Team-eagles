@@ -1,3 +1,5 @@
+//Sorry it's still messy I plan on splitting things up in different files later. That said it should still work.
+
 #include<iostream>
 #include<iomanip>
 #include<istream>
