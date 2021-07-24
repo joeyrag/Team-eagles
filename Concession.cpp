@@ -1,4 +1,4 @@
-//Sorry it's still messy I plan on splitting things up in different files later. That said it should still work.
+//Sorry it's still messy I plan on splitting things up in different files later. That said it should still work by calling mainF to the main.cpp file.
 
 #include<iostream>
 #include<iomanip>
