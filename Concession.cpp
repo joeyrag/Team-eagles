@@ -116,7 +116,7 @@ cout << line;
 
 }
 
-mainF;
+mainF();
 //return 0;
 
 }
